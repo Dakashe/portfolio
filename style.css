@@ -1,0 +1,30 @@
+/* By Boujjou Achraf*/
+
+/*basic reset */
+            
+            *{
+                margin: 0;
+                padding: 0;
+            }
+            
+            body {background: black;}
+            canvas {display:block;}
+            #textmain
+            {
+            color: white;
+            background-color: black;
+            opacity: 0.8;
+            font-size: x-large;
+            border-color: pink;
+            border:2px;
+            border-style: solid;
+            position: fixed;
+            
+            
+            left:30%;
+            right: 30%;
+            top: 20%;
+            height: 30%;
+            z-index: 2;
+
+}
